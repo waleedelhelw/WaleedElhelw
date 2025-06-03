@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:6366F1&height=200&section=header&text=Hi%20I'm%20Walid%20Al-Helo&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:6366F1&height=200&section=header&text=Hi%20I'm%20Walid%20Mohamed&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center">🚀 Aspiring Full Stack Developer | Back-End Focused (.NET Core)</h3>
@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 I'm **Walid Al-Helo**, a passionate Back-End Developer with a strong foundation in `.NET Core`, `C#`, `C++`, and `SQL`.
+- 👨‍💻 I'm **Walid Mohamed**, a passionate Back-End Developer with a strong foundation in `.NET Core`, `C#`, `C++`, and `SQL`.
 - 📚 Skilled in **Data Structures & Algorithms**, **Database Design (ERD)**, and **multi-layered architecture** (DAL, BLL, UI).
 - 🛠 Currently working on a **Car Shop Management System** using Windows Forms and ADO.NET.
 - 🎯 My goal is to become a **Full Stack .NET Developer**.
@@ -47,7 +47,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/waleed-mohamed-2331b3203)
 - 📂 [GitHub](https://github.com/waleedelhelw)
-- 📧 Email: your.email@example.com *(replace with your real one)*
+- 📧 Email: waleedelhelw30@gmail.com
 
 ---
 
