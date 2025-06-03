@@ -12,6 +12,8 @@
 - 📚 Skilled in **Data Structures & Algorithms**, **Database Design (ERD)**, and **multi-layered architecture** (DAL, BLL, UI).
 - 🛠 Currently working on a **Car Shop Management System** using Windows Forms and ADO.NET.
 - 🎯 My goal is to become a **Full Stack .NET Developer**.
+- 💡 I’m experienced with **Git & GitHub** for version control and collaboration.
+- 🗃️ Familiar with **Entity Framework (EF)** for data access and ORM in .NET.
 
 ---
 
@@ -40,6 +42,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" alt="Windows Forms"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/entity-framework/entity-framework.png" alt="Entity Framework"></code>
 
 ---
 
