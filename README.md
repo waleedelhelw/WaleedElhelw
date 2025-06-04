@@ -11,9 +11,9 @@
 - 👨‍💻 I'm **Walid Mohamed**, a passionate Back-End Developer with a strong foundation in `.NET Core`, `C#`, `C++`, and `SQL`.
 - 📚 Skilled in **Data Structures & Algorithms**, **Database Design (ERD)**, and **multi-layered architecture** (DAL, BLL, UI).
 - 🛠 Currently working on a **Car Shop Management System** using Windows Forms and ADO.NET.
-- 🎯 My goal is to become a **Full Stack .NET Developer**.
 - 💡 I’m experienced with **Git & GitHub** for version control and collaboration.
 - 🗃️ Familiar with **Entity Framework (EF)** for data access and ORM in .NET.
+- 🎯 My goal is to become a **Full Stack .NET Developer**.
 
 ---
 
@@ -50,9 +50,27 @@
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/waleed-mohamed-2331b3203)
-- 📂 [GitHub](https://github.com/waleedelhelw)
-- 📧 Email: waleedelhelw30@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/waleed-mohamed-2331b3203" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:waleedelhelw30@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+  <a href="https://github.com/waleedelhelw" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="https://wa.me/201096842033" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://www.facebook.com/waleed.elhelw.5?locale=ar_AR" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
