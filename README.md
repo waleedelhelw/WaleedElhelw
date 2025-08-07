@@ -22,6 +22,7 @@
 | Project | Description |
 |--------|-------------|
 | 🎓 [Student Management System](https://github.com/waleedelhelw/student-mangment) | Manages student records, course registration, and authentication. Developed using C++. |
+| 📚 [EduSpark Platform](https://edusparktest.runasp.net/) *(In Development)* | Online learning platform built with ASP.NET Core MVC, implementing layered architecture and secure user authentication. |
 | 💳 ATM Simulation | Simulates ATM operations with secure input and transaction handling in C++. |
 | 🏦 Full Banking System | Full-featured banking system with account management, transactions, and login system. |
 | 🚗 Car Shop Management *(In Progress)* | Windows Forms + SQL-based system for managing vehicles, makes, models, and more. |
